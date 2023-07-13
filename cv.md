@@ -16,5 +16,6 @@ I am fresher, but I want learning
 +Git, GitHub
 +VS Code, Intellij IDEA
 +German
++English
 ##Code example##
 
